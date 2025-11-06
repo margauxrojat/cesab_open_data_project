@@ -6,7 +6,7 @@ output: github_document
 
 ## Projet
 
-Projet de recherche sur l'impact des espèces exotiques envahissantes sur la croissance d'espèces indigènes de l'île de la Réunion.
+Les flores régionales ont été façonnées par une succession d'évènements de colonisation et d'extinction durant des millions d'années. Au cours des derniers siècles, les activités humaines ont augmenté la fréquence de ces évènements de façon inédite. L'introduction d'espèces envahissantes et la perte d'espèces indigènes (souvent endémiques) associée induisent une diminution du caractère unique des flores régionales, un processus appelé ''homogénéisation biotique''. Les mécanismes par lesquels les plantes exotiques parviennent à remplacer les plantes indigènes ont alimenté de nombreuses hypothèses bien établies (e.g. exclusion compétitive, rupture des mutualismes, fusion invasive, nouvelles armes biochimiques). Ces hypothèses ont cependant rarement été évaluées in natura ou en s'appuyant sur des plantes endémiques menacées d'extinction. Cela rend difficile l'identification des processus d'invasion les plus prégnants qui doivent être prioritairement ciblés pour atténuer la crise de biodiversité. Cette thèse étudie les mécanismes écologiques qui sous-tendent l'homogénéisation biotique dans l'archipel des Mascareignes (océan Indien), l'un des épicentres mondiaux d'invasions biologiques et d'extinctions d'espèces. Elle se base sur : 1) des observations de terrain au sein de populations d'arbres endémiques en voie d'extinction, 2) des modèles hiérarchiques Bayésiens de communauté, et 3) des expérimentations en conditions contrôlées.
 
 ## License
 
@@ -18,7 +18,13 @@ Work in progress
 
 ##  Thematic scope (All biodiversity including paleo- and archaeo-biodiversity)
 
-Espèces de plantes de l'île de la Réunion.
+
+Interactions biotiques
+Invasions biologiques
+Espèces endémiques menacées
+Systèmes insulaires
+Jsdm
+La Reunion Island
 
 ##  Geographic scope (Data produced by France)
 
@@ -30,21 +36,28 @@ Work in progress
 
 ## Abstract
 
+J'ai fais super génial, hyper intéressant qui m'a cassé le dos, j'ai poussé de trop grosses brouettes avec des roues cassées. 
+
 ## Title, authors and contacts
 
 Margaux Rojat
 
 ## Acquisition framework (at least via a text field)
 
-
+![Dispositif](figures/dispositif.png)
 
 ## DOI / unique identifiers
+
+DOI:
 
 ##    taxonomic coverage (if taxa are present)
 
 Plante vasculaire de l'Ile de la Réunion
 
-##    keywords related to the Thesaurus
+##    Mots clés
+
+Biological invasion , Competition , Pot experiment , Performance 
+
 
 ##    Data attributes (Dictionary of data attributes with units and descriptions)
 
@@ -55,6 +68,6 @@ data_attributes <- data_attributes[1:25,]
 knitr::kable(data_attributes)
 ```
 
-##    Semantic annotation (Keywords and attribute names, unlimited usable resources)
+
 
 
