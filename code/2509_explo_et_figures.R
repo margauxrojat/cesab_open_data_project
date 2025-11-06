@@ -4,6 +4,8 @@ library(readxl)
 library(ggplot2)
 library(data.table)
 
+dir.create(path = "results/")
+
 tout <- read_xlsx(path = "data/2509_initial_final_temporaire.xlsx")
 # 1838
 
