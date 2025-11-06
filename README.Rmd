@@ -46,7 +46,7 @@ Margaux Rojat
 
 ##    Data attributes (Dictionary of data attributes with units and descriptions)
 
-```{r eval=FALSE}
+```{r echo=FALSE}
 data_attributes <- data.table::fread("data_attributes.csv", encoding = "Latin-1")
 data_attributes <- data_attributes[1:32,]
 
