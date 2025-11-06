@@ -1,25 +1,27 @@
+
 # Margaux et les plantes invasives
 
 ## Projet
 
-Projet de recherche sur l'impact des espèces exotiques envahissantes sur la croissance d'espèces indigènes de l'île de la Réunion.
+Projet de recherche sur l’impact des espèces exotiques envahissantes sur
+la croissance d’espèces indigènes de l’île de la Réunion.
 
 ## License
 
 Open data (CC-BY 4.0 compatible with Etalab)
 
-##  Direct link to download raw datasets
+## Direct link to download raw datasets
 
 Work in progress
 
-##  Thematic scope (All biodiversity including paleo- and archaeo-biodiversity)
+## Thematic scope (All biodiversity including paleo- and archaeo-biodiversity)
 
-Espèces de plantes de l'île de la Réunion.
+Espèces de plantes de l’île de la Réunion.
 
-##  Geographic scope (Data produced by France)
+## Geographic scope (Data produced by France)
 
 Île de la Réunion
-  
+
 ## Temporal coverage (at least one data acquisition date)
 
 Work in progress
@@ -32,16 +34,47 @@ Margaux Rojat
 
 ## Acquisition framework (at least via a text field)
 
-
-
 ## DOI / unique identifiers
 
-##    taxonomic coverage (if taxa are present)
+## taxonomic coverage (if taxa are present)
 
-##    keywords related to the Thesaurus
+## keywords related to the Thesaurus
 
-##    Data attributes (Dictionary of data attributes with units and descriptions)
+## Data attributes (Dictionary of data attributes with units and descriptions)
 
-##    Semantic annotation (Keywords and attribute names, unlimited usable resources)
+| variable | unit | type | description |
+|:---|:---|:---|:---|
+| mod2 |  | chr | Identifiant de l’individu, combinant la modalité dépendant du nombre d’individus et d’espèces compétitrices dans le pot. Basé sur Hart et al., 2018. |
+| modalite |  | chr | Code alphanumérique décrivant la présence d’une ou deux espèces compétitrices ainsi que l’effectif des individus dans le pot. |
+| sp1 |  | chr | Code 6 lettres de l’espèce 1. |
+| sp2 |  | chr | Code 6 lettres de l’espèce 2. |
+| pot |  | int | Numéro entre 1 et 5 du réplicat. |
+| sp |  | chr | Code 6 lettres de l’espèce de l’individu mesuré. |
+| ind |  | int | Numéro dans le pot de l’individu mesuré. |
+| etat |  | fact | Etat de santé initial de l’individu mesuré. |
+| origine |  | chr | Origine de l’individu (semence ou sauvageon) |
+| nbleaves1 |  | int | Nombre de feuilles de l’individu mesuré à l’état initial |
+| nbleaves2 |  | int |  |
+| le length | cm | num | Longueur de la plus grande feuille de l’individu mesuré à l’état initial |
+| le width | cm | num | Largeur de la plus grande feuille de l’individu mesuré à l’état initial |
+| st diam | mm | num | Diamètre de la tige de l’individu mesuré à l’état initial |
+| st length | cm | num | Longueur de la tige de l’individu mesuré à l’état initial |
+| obs |  | chr | Nom des observateurs au moment de la mesure |
+| date |  | date | Date de la mesure |
+| na |  |  |  |
+| type feuil2 |  | chr |  |
+| comms |  | chr |  |
+| mort |  | fact | Etat de l’individu mesuré à t + 1 |
+| area | cm² | num | Aire foliaire de la plus grande feuille de l’individu mesuré à t = 0, obtenue par le produit de la longueur (le length) et la largeur (le width) |
+| masse | g | num | Masse de la plus grande feuille de l’individu mesuré à t = 0, obtenu par prédiction. |
+| nbleaves_tot |  | int |  |
+| masse_tot.x | g | num | Masse totale du feuillage à t = 0, obtenue par le produit de la prédiction masse de la plus grande feuille et de la |
+| vol |  | num |  |
+| mod |  |  |  |
+| masse_tot.y |  |  |  |
+| vol_tot |  |  |  |
+| diffmass |  |  |  |
+| diffvol |  |  |  |
+|  |  |  |  |
 
-
+## Semantic annotation (Keywords and attribute names, unlimited usable resources)
