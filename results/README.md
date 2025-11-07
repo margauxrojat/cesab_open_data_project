@@ -252,10 +252,15 @@ diffmass_OO <- ggplot(tmp) +
   theme(
     axis.text.x = element_text(angle = 45, hjust = 1)
   )
-diffmass_OO
+
+
+ggsave(plot = diffmass_OO, filename = here("results/diffmass_OO.png"))
 ```
 
-![](C:/Github/cesab_open_data_project/results/README_files/figure-gfm/unnamed-chunk-22-1.png)<!-- -->
+    ## Saving 7 x 5 in image
+
+![](../results/diffmass_00.png)
+
 Ajout des étiquettes inclinés à 45°
 
 Code Oihana
