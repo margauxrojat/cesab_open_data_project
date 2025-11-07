@@ -22,3 +22,15 @@ corres[, `:=`(
 corres 
 
 write.csv2(corres,file = "data/mappingIPT.csv")
+
+dataraw <- read_xlsx("data/2509_initial_final_temporaire.xlsx")
+dataraw
+
+library(dplyr)
+
+data_joined <- dataraw %>%
+  left_join(corres, by = c("sp" = "tax_id"))
+
+data_joined
+
+write.csv2(data_joined,file = "data/mappingIPT_ready.csv")
