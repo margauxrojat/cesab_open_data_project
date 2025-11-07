@@ -2,7 +2,7 @@
 title: "Margaux"
 author: "Oihana Olhasque"
 date: "2025-11-06"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
