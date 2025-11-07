@@ -259,7 +259,7 @@ ggsave(plot = diffmass_OO, filename = here("results/diffmass_OO.png"))
 
     ## Saving 7 x 5 in image
 
-![](diffmass_00.png)
+![](README_files/figure-gfm/unnamed-chunk-22-1.png)
 
 Ajout des étiquettes inclinés à 45°
 
