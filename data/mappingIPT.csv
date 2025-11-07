@@ -1,4 +1,4 @@
-"";"X";"tax_id";"nom_binomial";"basisOfRecord";"individualCount";"kingdom";"recordedBy";"eventDate";"country";"countryCode";"island";"licence"
+"";"ID";"tax_id";"nom_binomial";"basisOfRecord";"individualCount";"kingdom";"recordedBy";"eventDate";"country";"countryCode";"island";"licence"
 "1";1;"ABUEXS";"Abutilon exstipulare";"LivingSpecimen";25;"Plantae";"Margaux Rojat";"2024";"France";"FR";"La Réunion";"http://creativecommons.org/licenses/by/4.0/legalcode"
 "2";2;"ALBLEB";"Albizia lebbeck";"LivingSpecimen";25;"Plantae";"Margaux Rojat";"2024";"France";"FR";"La Réunion";"http://creativecommons.org/licenses/by/4.0/legalcode"
 "3";3;"COPBOR";"Coptosperma borbonicum";"LivingSpecimen";25;"Plantae";"Margaux Rojat";"2024";"France";"FR";"La Réunion";"http://creativecommons.org/licenses/by/4.0/legalcode"
