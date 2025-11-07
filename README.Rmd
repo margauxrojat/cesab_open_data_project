@@ -34,6 +34,8 @@ La Reunion Island
 
 Octobre 2024 à Avril 2025
 
+![](figures/measures_planning.png)
+
 ## Abstract
 
 J'ai fait un super travail, vraiment génial, hyper intéressant qui m'a cassé le dos, j'ai poussé de trop grosses brouettes avec des roues cassées. 
@@ -45,6 +47,9 @@ Margaux Rojat
 ## Acquisition framework (at least via a text field)
 
 ![Dispositif](figures/dispositif.png)
+
+![Dispositif2](figures/dispositif_reel.png)
+
 
 ## DOI / unique identifiers
 

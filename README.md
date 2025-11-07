@@ -52,6 +52,8 @@ alt="Île de la Réunion" />
 
 Octobre 2024 à Avril 2025
 
+![](figures/measures_planning.png)
+
 ## Abstract
 
 J’ai fait un super travail, vraiment génial, hyper intéressant qui m’a
@@ -67,6 +69,11 @@ Margaux Rojat
 <figure>
 <img src="figures/dispositif.png" alt="Dispositif" />
 <figcaption aria-hidden="true">Dispositif</figcaption>
+</figure>
+
+<figure>
+<img src="figures/dispositif_reel.png" alt="Dispositif2" />
+<figcaption aria-hidden="true">Dispositif2</figcaption>
 </figure>
 
 ## DOI / unique identifiers
