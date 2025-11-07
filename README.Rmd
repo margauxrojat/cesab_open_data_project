@@ -54,6 +54,12 @@ Work in progress
 
 20 plantes vasculaires de l'Ile de La Réunion, 9 espèces exotiques classées comme envahissantes et 11 espèces endémiques menacées classées Vulnérables, En Danger d'extinction ou En Danger Critique d'extinction par l'UICN (2023).
 
+```{r echo=FALSE}
+taxo  <- data.table::fread(here::here("data", "taxonomic_coverage.csv"), encoding = "Latin-1")
+
+knitr::kable(taxo)
+```
+
 ##    Mots clés
 
 Biological invasions, Competition, Pot experiment, Plant performance 
