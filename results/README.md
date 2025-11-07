@@ -254,12 +254,12 @@ diffmass_OO <- ggplot(tmp) +
   )
 
 
-ggsave(plot = diffmass_OO, filename = here("results/diffmass_OO.png"))
+diffmass_OO
 ```
 
-    ## Saving 7 x 5 in image
+![](C:/Github/cesab_open_data_project/results/README_files/figure-gfm/unnamed-chunk-24-1.png)<!-- -->
 
-![](diffmass_00.png)
+![](README_files/figure-gfm/unnamed-chunk-22-1.png)
 
 Ajout des étiquettes inclinés à 45°
 
@@ -275,5 +275,8 @@ diffmass2_OO <- ggplot(tmp2) + geom_boxplot(aes(y = diffmass, x = mod_new)) +
 diffmass2_OO
 ```
 
-![](C:/Github/cesab_open_data_project/results/README_files/figure-gfm/unnamed-chunk-23-1.png)<!-- -->
+![](C:/Github/cesab_open_data_project/results/README_files/figure-gfm/unnamed-chunk-25-1.png)<!-- -->
+
+![](README_files/figure-gfm/unnamed-chunk-22-2.png)
+
 Ajout des étiquettes inclinés à 45°

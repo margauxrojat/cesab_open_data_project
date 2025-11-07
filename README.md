@@ -52,6 +52,8 @@ alt="Île de la Réunion" />
 
 Octobre 2024 à Avril 2025
 
+![](figures/measures_planning.png)
+
 ## Abstract
 
 J’ai fait un super travail, vraiment génial, hyper intéressant qui m’a
@@ -69,6 +71,11 @@ Margaux Rojat
 <figcaption aria-hidden="true">Dispositif</figcaption>
 </figure>
 
+<figure>
+<img src="figures/dispositif_reel.png" alt="Dispositif2" />
+<figcaption aria-hidden="true">Dispositif2</figcaption>
+</figure>
+
 ## DOI / unique identifiers
 
 Work in progress
@@ -79,6 +86,17 @@ Work in progress
 classées comme envahissantes et 11 espèces endémiques menacées classées
 Vulnérables, En Danger d’extinction ou En Danger Critique d’extinction
 par l’UICN (2023).
+
+| sp | name_kingdom | name_subkingdom | name_infrakingdom | name_superdivision | name_division | name_subdivision | name_class | name_superorder | name_order | name_family | name_genus | name_species | id_kingdom | id_subkingdom | id_infrakingdom | id_superdivision | id_division | id_subdivision | id_class | id_superorder | id_order | id_family | id_genus | id_species |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Albizia lebbeck | Plantae | Viridiplantae | Streptophyta | Embryophyta | Tracheophyta | Spermatophytina | Magnoliopsida | Rosanae | Fabales | Fabaceae | Albizia | Albizia lebbeck | 202422 | 954898 | 846494 | 954900 | 846496 | 846504 | 18063 | 846548 | 500022 | 500059 | 26448 | 26450 |
+| Croton mauritianus | Plantae | Viridiplantae | Streptophyta | Embryophyta | Tracheophyta | Spermatophytina | Magnoliopsida | Rosanae | Malpighiales | Euphorbiaceae | Croton | Croton mauritianus | 202422 | 954898 | 846494 | 954900 | 846496 | 846504 | 18063 | 846548 | 822428 | 28031 | 28260 | 1027492 |
+| Furcraea foetida | Plantae | Viridiplantae | Streptophyta | Embryophyta | Tracheophyta | Spermatophytina | Magnoliopsida | Lilianae | Asparagales | Asparagaceae | Furcraea | Furcraea foetida | 202422 | 954898 | 846494 | 954900 | 846496 | 846504 | 18063 | 846542 | 897479 | 810124 | 500289 | 502691 |
+| Hedychium gardnerianum | Plantae | Viridiplantae | Streptophyta | Embryophyta | Tracheophyta | Spermatophytina | Magnoliopsida | Lilianae | Zingiberales | Zingiberaceae | Hedychium | Hedychium gardnerianum | 202422 | 954898 | 846494 | 954900 | 846496 | 846504 | 18063 | 846542 | 42381 | 42392 | 42395 | 502899 |
+| Hiptage benghalensis | Plantae | Viridiplantae | Streptophyta | Embryophyta | Tracheophyta | Spermatophytina | Magnoliopsida | Rosanae | Malpighiales | Malpighiaceae | Hiptage | Hiptage benghalensis | 202422 | 954898 | 846494 | 954900 | 846496 | 846504 | 18063 | 846548 | 822428 | 29253 | 564917 | 565966 |
+| Lantana camara | Plantae | Viridiplantae | Streptophyta | Embryophyta | Tracheophyta | Spermatophytina | Magnoliopsida | Asteranae | Lamiales | Verbenaceae | Lantana | Lantana camara | 202422 | 954898 | 846494 | 954900 | 846496 | 846504 | 18063 | 846535 | 31632 | 32064 | 32173 | 32175 |
+| Leucaena leucocephala | Plantae | Viridiplantae | Streptophyta | Embryophyta | Tracheophyta | Spermatophytina | Magnoliopsida | Rosanae | Fabales | Fabaceae | Leucaena | Leucaena leucocephala | 202422 | 954898 | 846494 | 954900 | 846496 | 846504 | 18063 | 846548 | 500022 | 500059 | 26764 | 26766 |
+| Psidium cattleianum | Plantae | Viridiplantae | Streptophyta | Embryophyta | Tracheophyta | Spermatophytina | Magnoliopsida | Rosanae | Myrtales | Myrtaceae | Psidium | Psidium cattleianum | 202422 | 954898 | 846494 | 954900 | 846496 | 846504 | 18063 | 846548 | 27072 | 27172 | 27238 | 27239 |
 
 ## Mots clés
 
