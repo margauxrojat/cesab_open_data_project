@@ -6,7 +6,7 @@ output: github_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r }
@@ -230,7 +230,7 @@ tmp2 <- tout[
 
 
 # changement code Oihana
-```{r}
+```{r, include=TRUE}
 diffmass_OO <- ggplot(tmp) +
   geom_boxplot(aes(y = diffmass, x = mod_new)) +
   labs(title = "différence masse feuillage") +
@@ -246,7 +246,7 @@ diffmass_OO
 Ajout des étiquettes inclinés à 45°
 
 Code Oihana 
-```{r}
+```{r, include=TRUE}
 diffmass2_OO <- ggplot(tmp2) + geom_boxplot(aes(y = diffmass, x = mod_new)) + 
   labs(title= "différence masse feuillage") +
   facet_wrap(~ sp) + theme_minimal() + xlab("") + ylim(c(0, 30))+
