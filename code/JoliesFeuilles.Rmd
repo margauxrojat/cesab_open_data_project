@@ -13,23 +13,20 @@ knitr::opts_chunk$set(echo = FALSE)
 library(readxl)
 library(ggplot2)
 library(data.table)
-```
-
-```{r}
-setwd("C:/Users/oolhasqu/OneDrive - AL LARK/PhD 2024-2027/Contenu Formation/La donnee en biodiversité/cesab_open_data_project/")
-
+library(here)
 ```
 
 
+
+
 ```{r}
-dir.create(path = "../results/")
+dir.create(here("results"))
 ```
 
 
 
 ```{r}
-tout <- read_xlsx(path = "../data/2509_initial_final_temporaire.xlsx")
-# 1838
+tout <- read_xlsx(here("data", "2509_initial_final_temporaire.xlsx"))
 ```
 
 ```{r}

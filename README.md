@@ -41,7 +41,12 @@ Systèmes insulaires Jsdm La Reunion Island
 
 ## Geographic scope (Data produced by France)
 
-Île de la Réunion
+<figure>
+<img
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZkJea4vXmdye9chLQx_rzJUCdf2HdZcYpw&amp;s"
+alt="Île de la Réunion" />
+<figcaption aria-hidden="true">Île de la Réunion</figcaption>
+</figure>
 
 ## Temporal coverage (at least one data acquisition date)
 
