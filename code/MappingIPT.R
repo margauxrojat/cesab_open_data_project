@@ -17,7 +17,8 @@ corres[, `:=`(
   eventDate       = "2024",        # ou "2024-01-01" si tu veux une vraie date
   country         = "France",
   countryCode     = "FR",
-  island          = "La Réunion"   # pas de virgule finale ici
+  island          = "La Réunion",
+  licence         = "http://creativecommons.org/licenses/by/4.0/legalcode"
 )]
 corres 
 
