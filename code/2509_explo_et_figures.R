@@ -41,8 +41,7 @@ for(n in 1:24){
   tmp <- tout[tout$pairs == pairs[[3]][[n]] |
                 tout$pairs2 == pairs[[3]][[n]] |
                 tout$sp1 == pairs[[1]][[n]] & is.na(tout$sp2) |
-                tout$sp1 == pairs[[2]][[n]] & is.na(tout$sp2),]
- 
+                tout$sp1 == pairs[[2]][[n]] & is.na(tout$sp2)]
   
   diffmass <- ggplot(tmp) + geom_boxplot(aes(y = diffmass, x = mod_new)) + 
     labs(title= "différence masse feuillage") +
