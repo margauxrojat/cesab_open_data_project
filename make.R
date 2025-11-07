@@ -1,9 +1,8 @@
-# Render le script README à la racine du projet
 # librairies
 library(here)
 
 
-
+# Render le script README à la racine du projet
 rmarkdown::render(input = "README.rmd", output_file = "README.md")
 
 # Render le script JoliesFeuilles.Rmd
