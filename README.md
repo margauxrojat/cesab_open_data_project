@@ -37,25 +37,26 @@ Work in progress
 ## Thematic scope (All biodiversity including paleo- and archaeo-biodiversity)
 
 Interactions biotiques Invasions biologiques Espèces endémiques menacées
-Systèmes insulaires Jsdm La Reunion Island
+Systèmes insulaires Joint SDMs La Reunion Island
 
 ## Geographic scope (Data produced by France)
 
 <figure>
 <img
-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZkJea4vXmdye9chLQx_rzJUCdf2HdZcYpw&amp;s"
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvMtBFp8Tlyo3j8mggqhfbg-YwB5IyF1TS3A&amp;s"
 alt="Île de la Réunion" />
 <figcaption aria-hidden="true">Île de la Réunion</figcaption>
 </figure>
 
 ## Temporal coverage (at least one data acquisition date)
 
-Work in progress
+Octobre 2024 à Avril 2025
 
 ## Abstract
 
-J’ai fais super génial, hyper intéressant qui m’a cassé le dos, j’ai
-poussé de trop grosses brouettes avec des roues cassées.
+J’ai fait un super travail, vraiment génial, hyper intéressant qui m’a
+cassé le dos, j’ai poussé de trop grosses brouettes avec des roues
+cassées.
 
 ## Title, authors and contacts
 
@@ -70,15 +71,18 @@ Margaux Rojat
 
 ## DOI / unique identifiers
 
-DOI:
+Work in progress
 
-## taxonomic coverage (if taxa are present)
+## Taxonomic coverage (if taxa are present)
 
-Plante vasculaire de l’Ile de la Réunion
+20 plantes vasculaires de l’Ile de La Réunion, 9 espèces exotiques
+classées comme envahissantes et 11 espèces endémiques menacées classées
+Vulnérables, En Danger d’extinction ou En Danger Critique d’extinction
+par l’UICN (2023).
 
 ## Mots clés
 
-Biological invasion , Competition , Pot experiment , Performance
+Biological invasions, Competition, Pot experiment, Plant performance
 
 ## Data attributes (Dictionary of data attributes with units and descriptions)
 
