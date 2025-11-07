@@ -22,6 +22,8 @@ corres[, `:=`(
 )]
 corres 
 
+corres <- rename(corres, ID = X)
+
 write.csv2(corres,file = "data/mappingIPT.csv")
 
 dataraw <- read_xlsx("data/2509_initial_final_temporaire.xlsx")
