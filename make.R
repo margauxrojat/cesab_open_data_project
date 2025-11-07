@@ -1,4 +1,8 @@
 # Render le script README à la racine du projet
+# librairies
+library(here)
+
+
 
 rmarkdown::render(input = "README.rmd", output_file = "README.md")
 
