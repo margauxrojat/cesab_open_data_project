@@ -6,4 +6,5 @@
 data/2509_initial_final_temporaire.xlsx
 *.Rproj
 results/*.png
+code/results/*.png
 *.html
